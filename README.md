@@ -10,7 +10,7 @@ Femaissance
 </p>
 
 
-[_Project link_](https://femaissance.herokuapp.com/)
+[_Project link_](https://femaissance.netlify.app/)
 
 [_Video link_](https://youtu.be/ivAm5EFq1y0)
 
